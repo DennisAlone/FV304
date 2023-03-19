@@ -1,0 +1,74 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Bai11",
+            "request": "launch",
+            "mainClass": "Bai11",
+            "projectName": "BaiThucHanhLab2_ff93aaf9"
+        },
+        {
+            "type": "java",
+            "name": "Bai10",
+            "request": "launch",
+            "mainClass": "Bai10",
+            "projectName": "BaiThucHanhLab2_ff93aaf9"
+        },
+        {
+            "type": "java",
+            "name": "Bai12",
+            "request": "launch",
+            "mainClass": "Bai12",
+            "projectName": "BaiThucHanhLab2_ff93aaf9"
+        },
+        {
+            "type": "java",
+            "name": "Bai9",
+            "request": "launch",
+            "mainClass": "Bai9",
+            "projectName": "BaiThucHanhLab2_ff93aaf9"
+        },
+        {
+            "type": "java",
+            "name": "Bai8",
+            "request": "launch",
+            "mainClass": "Bai8",
+            "projectName": "BaiThucHanhLab2_ff93aaf9"
+        },
+        {
+            "type": "java",
+            "name": "Bai7",
+            "request": "launch",
+            "mainClass": "Bai7",
+            "projectName": "BaiThucHanhLab2_ff93aaf9"
+        },
+        {
+            "type": "java",
+            "name": "Bai6",
+            "request": "launch",
+            "mainClass": "Bai6",
+            "projectName": "BaiThucHanhLab2_ff93aaf9"
+        },
+        {
+            "type": "java",
+            "name": "Bai1",
+            "request": "launch",
+            "mainClass": "Bai1",
+            "projectName": "BaiThucHanhLab2_ff93aaf9"
+        },
+        {
+            "type": "java",
+            "name": "Bai5",
+            "request": "launch",
+            "mainClass": "Bai5",
+            "projectName": "BaiThucHanhLab2_ff93aaf9"
+        },
+        {
+            "name": "Launch Chrome",
+            "request": "launch",
+            "type": "chrome",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
