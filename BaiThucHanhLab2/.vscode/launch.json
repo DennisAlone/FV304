@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "hk",
+            "request": "launch",
+            "mainClass": "hk",
+            "projectName": "BaiThucHanhLab2_ff93aaf9"
+        },
+        {
+            "type": "java",
             "name": "Bai11",
             "request": "launch",
             "mainClass": "Bai11",

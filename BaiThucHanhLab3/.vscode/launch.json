@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Bai3",
+            "request": "launch",
+            "mainClass": "Bai3",
+            "projectName": "BaiThucHanhLab3_ff93aafa"
+        },
+        {
+            "type": "java",
+            "name": "Bai1",
+            "request": "launch",
+            "mainClass": "Bai1",
+            "projectName": "BaiThucHanhLab3_ff93aafa"
+        },
+        {
+            "type": "java",
+            "name": "Bai2",
+            "request": "launch",
+            "mainClass": "Bai2",
+            "projectName": "BaiThucHanhLab3_ff93aafa"
+        },
+        {
+            "type": "java",
+            "name": "Hinhtron",
+            "request": "launch",
+            "mainClass": "Hinhtron",
+            "projectName": "BaiThucHanhLab3_ff93aafa"
+        },
+        {
+            "name": "Launch Chrome",
+            "request": "launch",
+            "type": "chrome",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
