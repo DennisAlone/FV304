@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MainClass",
+            "request": "launch",
+            "mainClass": "HinhHoc.main.MainClass",
+            "projectName": "BaiThucHanhLab3_ff93aafa"
+        },
+        {
+            "type": "java",
             "name": "Bai3",
             "request": "launch",
             "mainClass": "Bai3",
