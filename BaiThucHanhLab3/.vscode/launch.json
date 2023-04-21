@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ManagePhoneBook",
+            "request": "launch",
+            "mainClass": "QuanLyDanhBa.ManagePhoneBook",
+            "projectName": "BaiThucHanhLab3_ff93aafa"
+        },
+        {
+            "type": "java",
+            "name": "QuanLyDanhBaDienThoai",
+            "request": "launch",
+            "mainClass": "QuanLyDanhBaDienThoai.QuanLyDanhBaDienThoai",
+            "projectName": "BaiThucHanhLab3_ff93aafa"
+        },
+        {
+            "type": "java",
             "name": "MainClass",
             "request": "launch",
             "mainClass": "HinhHoc.main.MainClass",
