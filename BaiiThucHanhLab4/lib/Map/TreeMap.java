@@ -5,7 +5,7 @@ import Map.Map.Entry;
 
 public class TreeMap {
     public static void main(String[] args) {
-        TreeMap<Integer, Character> treeMap = new TreeMap<>();
+        TreeMap<Integer, Character> treeMap = new TreeMap();
         treeMap.put(6, 'A');
         treeMap.put(5, 'B');
         treeMap.put(1, 'C');

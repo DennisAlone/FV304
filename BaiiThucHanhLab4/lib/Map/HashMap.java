@@ -4,7 +4,7 @@ import java.util.Set;
 
 public class HashMap {
     public static void main(String[] args) {
-        HashMap<String, String> hashMap = new HashMap<>();
+        HashMap<String, String> hashMap = new HashMap();
         hashMap.put("CSLT", "Cơ sở lập trình");
         hashMap.put("C++", "C++");
         hashMap.put("C#", "C Sharp");

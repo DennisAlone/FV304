@@ -1,9 +1,5 @@
 {
-    "java.project.sourcePaths": [
-        "src",
-        "lib/Slide21",
-        "lib/BaiThucHanh1905"
-    ],
+    "java.project.sourcePaths": ["src"],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
